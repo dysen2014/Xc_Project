@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\green.jpg",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\green.jpg"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\button.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gray.jpg",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\gray.jpg"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\check.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\join.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\join.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uncheck.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\uncheck.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-hdpi\\set.png"
+    }
+]

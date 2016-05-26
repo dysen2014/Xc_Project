@@ -1,0 +1,524 @@
+[
+    {
+        "outputFile": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 52,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 70,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 70,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 40,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 66,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 66,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 44,
+                    "endOffset": 441
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 44,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 446,
+                    "endColumn": 43,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 43,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 49,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 732,
+                        "endColumn": 49,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 69,
+                    "endOffset": 605
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 69,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 610,
+                    "endColumn": 52,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 52,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 52,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 52,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 64,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 64,
+                        "endOffset": 633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 43,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1092,
+                        "endColumn": 43,
+                        "endOffset": 1131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 46,
+                    "endOffset": 867
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1136,
+                        "endColumn": 46,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 872,
+                    "endColumn": 40,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1183,
+                        "endColumn": 40,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endColumn": 40,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 40,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endColumn": 40,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 40,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 48,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 48,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 37,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 37,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 45,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 45,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1128,
+                    "endColumn": 51,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 51,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 56,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 56,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endColumn": 45,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 45,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endColumn": 58,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 58,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1632
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1637,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 858
+                    }
+                }
+            }
+        ]
+    }
+]

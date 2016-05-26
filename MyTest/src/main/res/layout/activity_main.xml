@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/item_header"
+            layout="@layout/item_top" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8">
+    <LinearLayout
+        android:id="@+id/ll_middle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="20dp">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="获取外网IP"
+            android:onClick="btnGetOuterIp"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="html5"
+            android:onClick="btnHtml5"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="JsDemo"
+            android:onClick="btnJsDemo"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="list数据倒序"
+            android:onClick="btnDataReverse"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="list加载刷新"
+            android:onClick="btnLoadRefresh"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="手机扫码器"
+            android:onClick="btnScanner"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="获取wifi密码"
+            android:onClick="btnGetWifiPwd"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="获取手机信息"
+            android:onClick="btnGetPhoneInfo"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>
+
+        <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="测试"
+        android:onClick="btnTest"
+        android:background="@drawable/ddy"
+        android:layout_marginBottom="10dp"/>
+
+
+
+       <!-- <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:onClick="btnGetOuterIp"
+            android:background="@drawable/ddy"
+            android:layout_marginBottom="10dp"/>-->
+
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/item_header"
+            layout="@layout/item_bottom" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_mytest" default="compile.module.mytest">
+  <dirname property="module.mytest.basedir" file="${ant.file.module_mytest}"/>
+  
+  <property name="module.jdk.home.mytest" value="${jdk.home.android_api_23_platform}"/>
+  <property name="module.jdk.bin.mytest" value="${jdk.bin.android_api_23_platform}"/>
+  <property name="module.jdk.classpath.mytest" value="jdk.classpath.android_api_23_platform"/>
+  
+  <property name="compiler.args.mytest" value="-encoding UTF-8 -source 1.7 -target 1.7 ${compiler.args}"/>
+  
+  <property name="mytest.output.dir" value="${module.mytest.basedir}/build/intermediates/classes/debug"/>
+  <property name="mytest.testoutput.dir" value="${module.mytest.basedir}/build/intermediates/classes/test/debug"/>
+  
+  <path id="mytest.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="mytest.module.production.classpath">
+    <path refid="${module.jdk.classpath.mytest}"/>
+    <path refid="library.htmlparser-2.1-sources.classpath"/>
+    <path refid="library.play-services-appindexing-8.1.0.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+    <path refid="library.play-services-basement-8.1.0.classpath"/>
+    <path refid="library.support-v4-23.2.1.classpath"/>
+    <path refid="library.htmlparser-2.1.classpath"/>
+    <path refid="library.support-annotations-23.2.1.classpath"/>
+    <path refid="library.animated-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.support-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.appcompat-v7-23.2.1.classpath"/>
+    <pathelement location="${mylibrary.output.dir}"/>
+  </path>
+  
+  <path id="mytest.runtime.production.module.classpath">
+    <pathelement location="${mytest.output.dir}"/>
+    <path refid="library.htmlparser-2.1-sources.classpath"/>
+    <path refid="library.play-services-appindexing-8.1.0.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+    <path refid="library.play-services-basement-8.1.0.classpath"/>
+    <path refid="library.support-v4-23.2.1.classpath"/>
+    <path refid="library.htmlparser-2.1.classpath"/>
+    <path refid="library.support-annotations-23.2.1.classpath"/>
+    <path refid="library.animated-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.support-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.appcompat-v7-23.2.1.classpath"/>
+    <path refid="mylibrary.runtime.production.module.classpath"/>
+  </path>
+  
+  <path id="mytest.module.classpath">
+    <path refid="${module.jdk.classpath.mytest}"/>
+    <pathelement location="${mytest.output.dir}"/>
+    <path refid="library.htmlparser-2.1-sources.classpath"/>
+    <path refid="library.play-services-appindexing-8.1.0.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+    <path refid="library.play-services-basement-8.1.0.classpath"/>
+    <path refid="library.hamcrest-core-1.3.classpath"/>
+    <path refid="library.support-v4-23.2.1.classpath"/>
+    <path refid="library.junit-4.12.classpath"/>
+    <path refid="library.htmlparser-2.1.classpath"/>
+    <path refid="library.support-annotations-23.2.1.classpath"/>
+    <path refid="library.animated-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.support-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.appcompat-v7-23.2.1.classpath"/>
+    <pathelement location="${mylibrary.testoutput.dir}"/>
+    <pathelement location="${mylibrary.output.dir}"/>
+  </path>
+  
+  <path id="mytest.runtime.module.classpath">
+    <pathelement location="${mytest.testoutput.dir}"/>
+    <pathelement location="${mytest.output.dir}"/>
+    <path refid="library.htmlparser-2.1-sources.classpath"/>
+    <path refid="library.play-services-appindexing-8.1.0.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+    <path refid="library.play-services-basement-8.1.0.classpath"/>
+    <path refid="library.hamcrest-core-1.3.classpath"/>
+    <path refid="library.support-v4-23.2.1.classpath"/>
+    <path refid="library.junit-4.12.classpath"/>
+    <path refid="library.htmlparser-2.1.classpath"/>
+    <path refid="library.support-annotations-23.2.1.classpath"/>
+    <path refid="library.animated-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.support-vector-drawable-23.2.1.classpath"/>
+    <path refid="library.appcompat-v7-23.2.1.classpath"/>
+    <path refid="mylibrary.runtime.module.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.mytest">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.mytest">
+    <patternset refid="excluded.from.module.mytest"/>
+  </patternset>
+  
+  <path id="mytest.module.sourcepath">
+    <dirset dir="${module.mytest.basedir}">
+      <include name="build/generated/source/aidl/debug"/>
+      <include name="build/generated/source/buildConfig/debug"/>
+      <include name="build/generated/source/rs/debug"/>
+      <include name="build/generated/res/rs/debug"/>
+      <include name="src/main/res"/>
+      <include name="src/main/assets"/>
+      <include name="src/main/java"/>
+    </dirset>
+  </path>
+  
+  <path id="mytest.module.test.sourcepath">
+    <dirset dir="${module.mytest.basedir}">
+      <include name="build/generated/source/r/androidTest/debug"/>
+      <include name="build/generated/source/aidl/androidTest/debug"/>
+      <include name="build/generated/source/buildConfig/androidTest/debug"/>
+      <include name="build/generated/source/rs/androidTest/debug"/>
+      <include name="build/generated/res/rs/androidTest/debug"/>
+      <include name="src/androidTest/java"/>
+      <include name="src/test/java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.mytest" depends="compile.module.mytest.production,compile.module.mytest.tests" description="Compile module MyTest"/>
+  
+  <target name="compile.module.mytest.production" depends="register.custom.compilers,compile.module.mylibrary" description="Compile module MyTest; production classes">
+    <mkdir dir="${mytest.output.dir}"/>
+    <javac2 destdir="${mytest.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.mytest}/javac">
+      <compilerarg line="${compiler.args.mytest}"/>
+      <bootclasspath refid="mytest.module.bootclasspath"/>
+      <classpath refid="mytest.module.production.classpath"/>
+      <src refid="mytest.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.mytest"/>
+    </javac2>
+    
+    <copy todir="${mytest.output.dir}">
+      <fileset dir="${module.mytest.basedir}/build/generated/source/aidl/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/build/generated/source/buildConfig/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/build/generated/source/rs/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/build/generated/res/rs/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/src/main/res">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/src/main/assets">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.mytest.tests" depends="register.custom.compilers,compile.module.mytest.production" description="compile module MyTest; test classes" unless="skip.tests">
+    <mkdir dir="${mytest.testoutput.dir}"/>
+    <javac2 destdir="${mytest.testoutput.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.mytest}/javac">
+      <compilerarg line="${compiler.args.mytest}"/>
+      <bootclasspath refid="mytest.module.bootclasspath"/>
+      <classpath refid="mytest.module.classpath"/>
+      <src refid="mytest.module.test.sourcepath"/>
+      <patternset refid="excluded.from.compilation.mytest"/>
+    </javac2>
+    
+    <copy todir="${mytest.testoutput.dir}">
+      <fileset dir="${module.mytest.basedir}/build/generated/source/r/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/build/generated/source/aidl/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/build/generated/source/buildConfig/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/build/generated/source/rs/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/build/generated/res/rs/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/src/androidTest/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.mytest.basedir}/src/test/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="clean.module.mytest" description="cleanup module">
+    <delete dir="${mytest.output.dir}"/>
+    <delete dir="${mytest.testoutput.dir}"/>
+  </target>
+</project>

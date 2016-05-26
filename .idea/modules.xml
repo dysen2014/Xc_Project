@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BleDemo/BleDemo.iml" filepath="$PROJECT_DIR$/BleDemo/BleDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Me/Me.iml" filepath="$PROJECT_DIR$/Me/Me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTest/MyTest.iml" filepath="$PROJECT_DIR$/MyTest/MyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NFC/NFC.iml" filepath="$PROJECT_DIR$/NFC/NFC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneMeter/PhoneMeter.iml" filepath="$PROJECT_DIR$/PhoneMeter/PhoneMeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xc_Project.iml" filepath="$PROJECT_DIR$/Xc_Project.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/blueMeter"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_device_address"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/device_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginTop="1dp" >
+
+        <TextView
+            android:id="@+id/connection_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dip"
+            android:hint="蓝牙连接状态"
+            android:textColorHint="#8B6969"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/tv_tx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="27dp"
+            android:background="#8B0000"
+            android:hint="TX 00"
+            android:textColorHint="#ffffff"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/tv_rx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="14dp"
+            android:layout_toLeftOf="@+id/tv_tx"
+            android:background="#556B2F"
+            android:hint="RX 00"
+            android:textColorHint="#ffffff"
+            android:textSize="16dp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="接收区:" />
+
+    <ScrollView
+        android:id="@+id/svR"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical|horizontal" >
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/receiveData"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:textColorHint="#ffffff"
+                android:textSize="18dp" />
+        </HorizontalScrollView>
+    </ScrollView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#66ffccdd" />
+
+    <TextView
+        android:id="@+id/tvT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送区:" />
+
+    <ScrollView
+        android:id="@+id/svT"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical|horizontal" >
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/sendData"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:textSize="18dp" />
+        </HorizontalScrollView>
+    </ScrollView>
+
+    <ExpandableListView
+        android:id="@+id/gatt_services_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="3dip"
+        android:layout_marginTop="10dip"
+        android:layout_weight="0.20"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_sum"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="1dip"
+            android:layout_weight="0.94"
+            android:gravity="center"
+            android:hint="发送次数："
+            android:textSize="16dp"
+            android:textColor="#fff"/>
+
+        <EditText
+            android:id="@+id/et_sum"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.76"
+            android:gravity="center"
+            android:numeric="integer"
+            android:text="1"
+            android:textSize="16dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="3dip"
+        android:layout_marginTop="10dip"
+        android:layout_weight="0.20" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="1dip"
+            android:layout_weight="0.94"
+            android:gravity="center"
+            android:hint="发送内容："
+            android:textSize="16dp"
+            android:textColor="#fff" />
+
+        <EditText
+            android:id="@+id/et_data"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.76"
+            android:gravity="center"
+            android:numeric="integer"
+            android:hint="68305F010008093516"
+            android:digits="1234567890ABCDEFabcdef"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_sum"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="3dip"
+        android:layout_marginTop="10dip"
+        android:visibility="gone"
+        android:layout_weight="0.20" >
+
+        <TextView
+            android:id="@+id/tv_sum2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="1dip"
+            android:layout_weight="0.94"
+            android:gravity="center"
+            android:hint="间隔时间(毫秒)："
+            android:textSize="16dp"
+            android:textColor="#fff" />
+
+        <EditText
+            android:id="@+id/et_time"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.76"
+            android:gravity="center"
+            android:numeric="integer"
+            android:text="1"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp" >
+        
+        <Button
+            android:id="@+id/btn_price"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="开始无限发送" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_send"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:digits="@string/et_send"
+        android:visibility="gone" />
+
+</LinearLayout>

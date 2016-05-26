@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="正在扫描Mifare卡"
+        android:textColor="#FFFFFF"
+        android:textSize="25px"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/Read"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Read Mifare Card"/>
+
+    <ScrollView
+        android:id="@+id/ScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/Promt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:scrollbars="vertical"
+            android:singleLine="false" />
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout android:id="@+id/SBLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <EditText
+                android:id="@+id/Sector"
+                android:hint="Sector(0-15)"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:digits="1234567890"
+                android:maxLength="2"/>
+            <EditText
+                android:id="@+id/Block"
+                android:hint="Block(0-63)"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:digits="1234567890"
+                android:maxLength="2"/>
+        </LinearLayout>
+        <RadioGroup
+            android:id="@+id/RadioGrp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/SBLayout">
+            <RadioButton android:id="@+id/RadioBtn1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="KeyA"
+                android:textColor="#FFFFFF"
+                android:checked="true"/>
+            <RadioButton android:id="@+id/RadioBtn2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="KeyB"
+                android:textColor="#FFFFFF"/>
+        </RadioGroup>
+        <EditText
+            android:id="@+id/Key"
+            android:hint="Key(6位16进制数据)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/RadioGrp"
+            android:digits="1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:maxLength="12"
+            android:text="FFFFFFFFFFFF"/>
+        <EditText
+            android:id="@+id/Data"
+            android:hint="Data(16位16进制数据)"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Key"
+            android:digits="1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            android:maxLength="32"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/Write"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Write Mifare Card"/>
+
+</LinearLayout>

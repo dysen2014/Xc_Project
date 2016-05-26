@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xhdpi\\login_bg.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_ble_send" default="compile.module.ble_send">
+  <dirname property="module.ble_send.basedir" file="${ant.file.module_ble_send}"/>
+  
+  <property name="module.jdk.home.ble_send" value="${jdk.home.android_api_18_platform}"/>
+  <property name="module.jdk.bin.ble_send" value="${jdk.bin.android_api_18_platform}"/>
+  <property name="module.jdk.classpath.ble_send" value="jdk.classpath.android_api_18_platform"/>
+  
+  <property name="compiler.args.ble_send" value="-encoding UTF-8 -source 1.6 -target 1.6 ${compiler.args}"/>
+  
+  <property name="ble_send.output.dir" value="${module.ble_send.basedir}/build/intermediates/classes/debug"/>
+  <property name="ble_send.testoutput.dir" value="${module.ble_send.basedir}/build/intermediates/classes/test/debug"/>
+  
+  <path id="ble_send.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="ble_send.module.production.classpath">
+    <path refid="${module.jdk.classpath.ble_send}"/>
+    <path refid="library.support-v4-18.0.0.classpath"/>
+    <path refid="library.mygifview.classpath"/>
+    <path refid="library.zbardecoder.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.fastjson-1.1.24.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+  </path>
+  
+  <path id="ble_send.runtime.production.module.classpath">
+    <pathelement location="${ble_send.output.dir}"/>
+    <path refid="library.support-v4-18.0.0.classpath"/>
+    <path refid="library.mygifview.classpath"/>
+    <path refid="library.zbardecoder.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.fastjson-1.1.24.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+  </path>
+  
+  <path id="ble_send.module.classpath">
+    <path refid="${module.jdk.classpath.ble_send}"/>
+    <pathelement location="${ble_send.output.dir}"/>
+    <path refid="library.support-v4-18.0.0.classpath"/>
+    <path refid="library.mygifview.classpath"/>
+    <path refid="library.zbardecoder.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.fastjson-1.1.24.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+  </path>
+  
+  <path id="ble_send.runtime.module.classpath">
+    <pathelement location="${ble_send.testoutput.dir}"/>
+    <pathelement location="${ble_send.output.dir}"/>
+    <path refid="library.support-v4-18.0.0.classpath"/>
+    <path refid="library.mygifview.classpath"/>
+    <path refid="library.zbardecoder.classpath"/>
+    <path refid="library.zbar_scan.classpath"/>
+    <path refid="library.fastjson-1.1.24.classpath"/>
+    <path refid="library.armeabi.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.ble_send">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.ble_send">
+    <patternset refid="excluded.from.module.ble_send"/>
+  </patternset>
+  
+  <path id="ble_send.module.sourcepath">
+    <dirset dir="${module.ble_send.basedir}">
+      <include name="build/generated/source/r/debug"/>
+      <include name="build/generated/source/aidl/debug"/>
+      <include name="build/generated/source/buildConfig/debug"/>
+      <include name="build/generated/source/rs/debug"/>
+      <include name="build/generated/res/rs/debug"/>
+      <include name="src/main/res"/>
+      <include name="src/main/assets"/>
+      <include name="src/main/java"/>
+    </dirset>
+  </path>
+  
+  <path id="ble_send.module.test.sourcepath">
+    <dirset dir="${module.ble_send.basedir}">
+      <include name="build/generated/source/r/androidTest/debug"/>
+      <include name="build/generated/source/aidl/androidTest/debug"/>
+      <include name="build/generated/source/buildConfig/androidTest/debug"/>
+      <include name="build/generated/source/rs/androidTest/debug"/>
+      <include name="build/generated/res/rs/androidTest/debug"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.ble_send" depends="compile.module.ble_send.production,compile.module.ble_send.tests" description="Compile module ble_send"/>
+  
+  <target name="compile.module.ble_send.production" depends="register.custom.compilers" description="Compile module ble_send; production classes">
+    <mkdir dir="${ble_send.output.dir}"/>
+    <javac2 destdir="${ble_send.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.ble_send}/javac">
+      <compilerarg line="${compiler.args.ble_send}"/>
+      <bootclasspath refid="ble_send.module.bootclasspath"/>
+      <classpath refid="ble_send.module.production.classpath"/>
+      <src refid="ble_send.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.ble_send"/>
+    </javac2>
+    
+    <copy todir="${ble_send.output.dir}">
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/r/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/aidl/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/buildConfig/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/rs/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/res/rs/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/src/main/res">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/src/main/assets">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.ble_send.tests" depends="register.custom.compilers,compile.module.ble_send.production" description="compile module ble_send; test classes" unless="skip.tests">
+    <mkdir dir="${ble_send.testoutput.dir}"/>
+    <javac2 destdir="${ble_send.testoutput.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.ble_send}/javac">
+      <compilerarg line="${compiler.args.ble_send}"/>
+      <bootclasspath refid="ble_send.module.bootclasspath"/>
+      <classpath refid="ble_send.module.classpath"/>
+      <src refid="ble_send.module.test.sourcepath"/>
+      <patternset refid="excluded.from.compilation.ble_send"/>
+    </javac2>
+    
+    <copy todir="${ble_send.testoutput.dir}">
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/r/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/aidl/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/buildConfig/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/source/rs/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.ble_send.basedir}/build/generated/res/rs/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="clean.module.ble_send" description="cleanup module">
+    <delete dir="${ble_send.output.dir}"/>
+    <delete dir="${ble_send.testoutput.dir}"/>
+  </target>
+</project>

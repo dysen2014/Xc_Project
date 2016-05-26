@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 577,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1271
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1276,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1310,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1419
+                    }
+                }
+            }
+        ]
+    }
+]

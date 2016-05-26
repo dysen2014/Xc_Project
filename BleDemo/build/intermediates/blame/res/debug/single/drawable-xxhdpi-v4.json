@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ll1.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xxhdpi\\ll1.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\l3.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xxhdpi\\l3.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ld.gif",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xxhdpi\\ld.gif"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

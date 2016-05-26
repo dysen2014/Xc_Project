@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\layout\\read_data.xml",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\layout\\read_data.xml"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\layout\\listview_select.xml",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\layout\\listview_select.xml"
+    }
+]

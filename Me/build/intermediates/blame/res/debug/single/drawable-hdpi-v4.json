@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__spinner_ab_default_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_money.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_me_money.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_dark_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_group.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_menu_group.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_tip_up.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_tip_up.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_mine_up.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_mine_up.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_mall_up.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_mall_up.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_normal.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_male.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_sex_male.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_friends.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\find_friends.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_normal.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\find_normal.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zx.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\zx.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_photo.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_me_photo.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_mall.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_mall.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aub.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\aub.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aul.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\aul.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_home_up.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_home_up.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_saoyisao.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_de_saoyisao.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_checkbox_off.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\jy_checkbox_off.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set2.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\set2.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_ping.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_de_ping.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_pref_bg.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\app_pref_bg.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6_.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\a6_.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_talk.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_talk.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\auj.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\auj.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\large_logo_default_4.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\large_logo_default_4.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_focused_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_btn_deleteperson.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_btn_deleteperson.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_tip.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_tip.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popmenu_bg.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\popmenu_bg.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_titleaddfriend.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_titleaddfriend.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_pressed.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\profile_pressed.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_dark.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_mine.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_mine.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_more.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_normal.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vector_drawable_users.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\vector_drawable_users.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_normal.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\btn_big_normal_normal.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_addfriend.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_menu_addfriend.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\afr.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\afr.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abv.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\abv.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aun.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\aun.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo_blue.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_logo_blue.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_setting.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_me_setting.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_popwindow.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\bg_popwindow.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_menu_sao.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_menu_sao.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\defult_group.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\defult_group.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wp.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\wp.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_diary_up.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_diary_up.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_sex_female.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_sex_female.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_disable.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\btn_big_normal_disable.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_common_toast.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\bg_common_toast.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_smail.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_me_smail.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_card.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_me_card.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aii.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\aii.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_selected_pressed_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_checkbox_on.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\jy_checkbox_on.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_solid_light_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_me_collect.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_me_collect.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_normal.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\profile_normal.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_add.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_add.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_dark_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_list_pressed.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\contact_list_pressed.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\auo.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\auo.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_back.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\set.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\set.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_icon_resume.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\jy_icon_resume.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_cab_done_holo_dark.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a6a.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\a6a.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_game.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_de_game.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appitem_del_btn.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\appitem_del_btn.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jy_drltsz_btn_addperson.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\jy_drltsz_btn_addperson.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_transparent_light_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_de_nearby.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\icon_de_nearby.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_big_normal_press.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\btn_big_normal_press.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\v2.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_ba.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\user_ba.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\wo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_home.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_home.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_holo_dark.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\menu_bg.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_search_api_holo_light.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cm.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\cm.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_pressed.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\find_pressed.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_chat.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\no_chat.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_disabled.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable-hdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_main_tab_diary.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-hdpi\\ic_main_tab_diary.png"
+    }
+]

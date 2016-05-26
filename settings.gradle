@@ -1,0 +1,1 @@
+include ':Me', ':MyTest', ':PhoneMeter', ':NFC', ':BleDemo'

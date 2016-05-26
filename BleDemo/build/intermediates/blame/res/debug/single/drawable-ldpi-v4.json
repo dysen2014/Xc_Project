@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\xc02.jpg",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-ldpi\\xc02.jpg"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\lg.jpg",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-ldpi\\lg.jpg"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\xc03.jpg",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-ldpi\\xc03.jpg"
+    }
+]

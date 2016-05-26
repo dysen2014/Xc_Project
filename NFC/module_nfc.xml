@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_nfc" default="compile.module.nfc">
+  <dirname property="module.nfc.basedir" file="${ant.file.module_nfc}"/>
+  
+  <property name="module.jdk.home.nfc" value="${jdk.home.android_api_23_platform}"/>
+  <property name="module.jdk.bin.nfc" value="${jdk.bin.android_api_23_platform}"/>
+  <property name="module.jdk.classpath.nfc" value="jdk.classpath.android_api_23_platform"/>
+  
+  <property name="compiler.args.nfc" value="-encoding UTF-8 -source 1.7 -target 1.7 ${compiler.args}"/>
+  
+  <property name="nfc.output.dir" value="${module.nfc.basedir}/build/intermediates/classes/debug"/>
+  <property name="nfc.testoutput.dir" value="${module.nfc.basedir}/build/intermediates/classes/test/debug"/>
+  
+  <path id="nfc.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="nfc.module.production.classpath">
+    <path refid="${module.jdk.classpath.nfc}"/>
+    <path refid="library.recyclerview-v7-23.3.0.classpath"/>
+    <path refid="library.support-v4-23.3.0.classpath"/>
+    <path refid="library.guava-r09.classpath"/>
+    <path refid="library.support-annotations-23.3.0.classpath"/>
+    <path refid="library.support-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.animated-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.design-23.3.0.classpath"/>
+    <path refid="library.appcompat-v7-23.3.0.classpath"/>
+  </path>
+  
+  <path id="nfc.runtime.production.module.classpath">
+    <pathelement location="${nfc.output.dir}"/>
+    <path refid="library.recyclerview-v7-23.3.0.classpath"/>
+    <path refid="library.support-v4-23.3.0.classpath"/>
+    <path refid="library.guava-r09.classpath"/>
+    <path refid="library.support-annotations-23.3.0.classpath"/>
+    <path refid="library.support-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.animated-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.design-23.3.0.classpath"/>
+    <path refid="library.appcompat-v7-23.3.0.classpath"/>
+  </path>
+  
+  <path id="nfc.module.classpath">
+    <path refid="${module.jdk.classpath.nfc}"/>
+    <pathelement location="${nfc.output.dir}"/>
+    <path refid="library.recyclerview-v7-23.3.0.classpath"/>
+    <path refid="library.hamcrest-core-1.3.classpath"/>
+    <path refid="library.support-v4-23.3.0.classpath"/>
+    <path refid="library.junit-4.12.classpath"/>
+    <path refid="library.guava-r09.classpath"/>
+    <path refid="library.support-annotations-23.3.0.classpath"/>
+    <path refid="library.support-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.animated-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.design-23.3.0.classpath"/>
+    <path refid="library.appcompat-v7-23.3.0.classpath"/>
+  </path>
+  
+  <path id="nfc.runtime.module.classpath">
+    <pathelement location="${nfc.testoutput.dir}"/>
+    <pathelement location="${nfc.output.dir}"/>
+    <path refid="library.recyclerview-v7-23.3.0.classpath"/>
+    <path refid="library.hamcrest-core-1.3.classpath"/>
+    <path refid="library.support-v4-23.3.0.classpath"/>
+    <path refid="library.junit-4.12.classpath"/>
+    <path refid="library.guava-r09.classpath"/>
+    <path refid="library.support-annotations-23.3.0.classpath"/>
+    <path refid="library.support-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.animated-vector-drawable-23.3.0.classpath"/>
+    <path refid="library.design-23.3.0.classpath"/>
+    <path refid="library.appcompat-v7-23.3.0.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.nfc">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.nfc">
+    <patternset refid="excluded.from.module.nfc"/>
+  </patternset>
+  
+  <path id="nfc.module.sourcepath">
+    <dirset dir="${module.nfc.basedir}">
+      <include name="build/generated/source/r/debug"/>
+      <include name="build/generated/source/aidl/debug"/>
+      <include name="build/generated/source/buildConfig/debug"/>
+      <include name="build/generated/source/rs/debug"/>
+      <include name="build/generated/res/rs/debug"/>
+      <include name="src/main/res"/>
+      <include name="src/main/java"/>
+    </dirset>
+  </path>
+  
+  <path id="nfc.module.test.sourcepath">
+    <dirset dir="${module.nfc.basedir}">
+      <include name="build/generated/source/r/androidTest/debug"/>
+      <include name="build/generated/source/aidl/androidTest/debug"/>
+      <include name="build/generated/source/buildConfig/androidTest/debug"/>
+      <include name="build/generated/source/rs/androidTest/debug"/>
+      <include name="build/generated/res/rs/androidTest/debug"/>
+      <include name="src/test/java"/>
+      <include name="src/androidTest/java"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.nfc" depends="compile.module.nfc.production,compile.module.nfc.tests" description="Compile module NFC"/>
+  
+  <target name="compile.module.nfc.production" depends="register.custom.compilers" description="Compile module NFC; production classes">
+    <mkdir dir="${nfc.output.dir}"/>
+    <javac2 destdir="${nfc.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.nfc}/javac">
+      <compilerarg line="${compiler.args.nfc}"/>
+      <bootclasspath refid="nfc.module.bootclasspath"/>
+      <classpath refid="nfc.module.production.classpath"/>
+      <src refid="nfc.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.nfc"/>
+    </javac2>
+    
+    <copy todir="${nfc.output.dir}">
+      <fileset dir="${module.nfc.basedir}/build/generated/source/r/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/source/aidl/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/source/buildConfig/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/source/rs/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/res/rs/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/src/main/res">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/src/main/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.nfc.tests" depends="register.custom.compilers,compile.module.nfc.production" description="compile module NFC; test classes" unless="skip.tests">
+    <mkdir dir="${nfc.testoutput.dir}"/>
+    <javac2 destdir="${nfc.testoutput.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.nfc}/javac">
+      <compilerarg line="${compiler.args.nfc}"/>
+      <bootclasspath refid="nfc.module.bootclasspath"/>
+      <classpath refid="nfc.module.classpath"/>
+      <src refid="nfc.module.test.sourcepath"/>
+      <patternset refid="excluded.from.compilation.nfc"/>
+    </javac2>
+    
+    <copy todir="${nfc.testoutput.dir}">
+      <fileset dir="${module.nfc.basedir}/build/generated/source/r/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/source/aidl/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/source/buildConfig/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/source/rs/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/build/generated/res/rs/androidTest/debug">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/src/test/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+      <fileset dir="${module.nfc.basedir}/src/androidTest/java">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="clean.module.nfc" description="cleanup module">
+    <delete dir="${nfc.output.dir}"/>
+    <delete dir="${nfc.testoutput.dir}"/>
+  </target>
+</project>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dysen.qj.wMeter">
+
+    <!--nfc-->
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-feature android:name="android.hardware.nfc" android:required="true" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- 震动器服务 -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_water_36dp"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.dysen.load.WelcomeActivity"
+            android:theme="@style/ImageTranslucentTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- <activity android:name="com.dysen.load.UserDemo" /> -->
+        <activity android:name="com.dysen.login_register.LoginDemo"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.login_register.ForgetPwdDemo"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.login_register.RegisterDemo"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.login_register.UpdatePwd"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.about.AboutActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.about.AppIntroActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.about.CompanyIntroActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.user.UserActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.iot.IotActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.ms.MeterSysActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.ms.MListActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.ms.UserViewActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.ms.PaymentHistoryActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.ms.WaterEntryActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.ms.BookActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity android:name="com.dysen.type.ms.UpdateActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top"/>
+        <activity
+            android:name="com.dysen.load.MainActivity"
+            android:label="潜江抄表系统"
+            android:theme="@style/ColorTranslucentTheme" />
+        <activity android:name="com.dysen.nfcdemo.NFCDemoActivity"
+            android:theme="@style/ColorTranslucentTheme_item_top">
+
+            <!--<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>-->
+            <!-- ACTION_NDEF_DISCOVERED -->
+            <!-- TNF_WELL_KNOWN RTD_URI -->
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="http://www."
+                    android:host="cnblogs.com/skyseraph"
+                    android:pathPrefix="/" />
+            </intent-filter>
+            <!-- TNF_WELL_KNOWN RTD_TEXT -->
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+            <!-- TNF_BASOLUTE_URI-->
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:scheme="http://"
+                    android:host="developer.android.com"
+                    android:pathPrefix="/index.html" />
+            </intent-filter>
+            <!-- ACTION_TECH_DISCOVERED -->
+            <intent-filter>
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+            </intent-filter>
+            <meta-data
+                android:name="android.nfc.action.TECH_DISCOVERED"
+                android:resource="@xml/nfc_tech_filter" />
+            <!-- ACTION_TAG_DISCOVERED -->
+            <intent-filter>
+                <action android:name="android.nfc.action.TAG_DISCOVERED"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

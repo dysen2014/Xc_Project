@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scan_line.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-mdpi\\scan_line.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\qr_code_bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-mdpi\\qr_code_bg.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\scan_line2.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-mdpi\\scan_line2.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\qr_code_bg2.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-mdpi\\qr_code_bg2.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shadow.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-mdpi\\shadow.png"
+    },
+    {
+        "merged": "Y:\\AS_Test\\Xc_Project\\BleDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bg.png",
+        "source": "Y:\\AS_Test\\Xc_Project\\BleDemo\\src\\main\\res\\drawable-mdpi\\bg.png"
+    }
+]

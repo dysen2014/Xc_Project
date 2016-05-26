@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="48.0dip"
+    android:fitsSystemWindows="true"
+    android:clipToPadding="true"
+    android:id="@+id/rl_title"
+    android:background="@color/app_main_color"
+    android:layout_gravity="top">
+    
+    <TextView
+        android:id="@+id/txt_left"
+        style="@style/txt_titleStyle1"
+        android:textSize="15sp"
+        android:layout_alignParentLeft="true"
+         android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:text="美医圈"
+        android:visibility="gone"/>
+
+     <ImageView
+         android:id="@+id/img_back"
+        android:layout_width="40dp"
+        android:layout_height="22dp"
+        android:layout_centerVertical="true"
+         android:visibility="gone"
+        android:contentDescription="美吧"
+        android:src="@drawable/icon_back" />
+
+    <TextView
+        android:id="@+id/txt_title"
+        style="@style/txt_titleStyle1"
+        android:text="美吧"
+        android:layout_centerInParent="true"  />
+
+     <ImageView
+         android:id="@+id/img_right"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+         android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:visibility="gone"
+        android:contentDescription="美吧"
+        android:src="@drawable/icon_groupinfo" />
+    
+     <TextView
+        android:id="@+id/txt_right"
+        style="@style/txt_titleStyle1"
+        android:textSize="16sp"
+        android:layout_alignParentRight="true"
+         android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"  />
+
+</RelativeLayout>
