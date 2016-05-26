@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "outputFile": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\values-w360dp-v13\\values-w360dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-w360dp\\values.xml",
+                    "file": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-w360dp\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

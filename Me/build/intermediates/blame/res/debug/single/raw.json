@@ -1,10 +1,10 @@
 [
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\raw\\beep.ogg"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\raw\\outgoing.ogg"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\raw\\outgoing.ogg",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\raw\\outgoing.ogg"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\raw\\beep.ogg"
     }
 ]

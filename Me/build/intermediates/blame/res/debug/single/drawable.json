@@ -1,134 +1,134 @@
 [
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_ic_clear.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\titlepop_item_selector.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\titlepop_item_selector.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_blue.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_blue.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_green.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_green.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbog_style.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\checkbog_style.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_xueba.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_xueba.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_gray1.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_gray1.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_search_dropdown_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbog_style.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\checkbog_style.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_xueba.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_xueba.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\jy_checkbox_selector.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\jy_checkbox_selector.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\jy_checkbox_selector.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\jy_checkbox_selector.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_zhenba.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_zhenba.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_enable_green.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_enable_green.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_blue.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_blue.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_enable_green.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_enable_green.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_drawable.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\progressbar_drawable.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_meiba.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_meiba.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_search_dropdown_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_gray2.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_gray2.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_drawable.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\progressbar_drawable.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_meiba.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_meiba.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_zhenba.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_zhenba.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_login.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\edittext_login.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_gray1.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_gray1.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_profile.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_profile.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_default.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_green.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_green.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_default.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_login.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\edittext_login.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_gray.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_gray.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_profile.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\tab_home_profile.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_ic_clear.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\titlepop_item_selector.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\titlepop_item_selector.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_gray.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_gray.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_gray2.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable\\btn_bg_gray2.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\drawable\\abc_search_dropdown_dark.xml"
     }
 ]

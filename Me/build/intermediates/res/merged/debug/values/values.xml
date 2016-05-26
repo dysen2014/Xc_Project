@@ -302,6 +302,10 @@
      <!--<item name="android:windowIsTranslucent">true</item>  -->
         <item name="android:windowBackground">@color/windows_color</item>
     </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
     <style name="BaseDialog" parent="@android:style/Theme.Dialog"/>
     <style name="ButtonStyle" parent="@android:style/Widget.Button">
         <item name="android:textSize">13.0sp</item>

@@ -1,170 +1,170 @@
 [
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_invite_msg.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_invite_msg.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_picture.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_picture.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video_call.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_video_call.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\alert_dialog.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\alert_dialog.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\alert_dialog.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\alert_dialog.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_picture.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_picture.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_message.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_message.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_video.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_video.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_show_video.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\start.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\start.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_group.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_group.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_chat_history.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_chat_history.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_image.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_image.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_item_msg.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_item_msg.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice_call.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_voice_call.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_invite_msg.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_invite_msg.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_voice.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_file.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_file.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_big_image.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_show_big_image.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\expression_gridview.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\expression_gridview.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_tool.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_chat_tool.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_friend.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_head_friend.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_message.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_message.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_contact.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_friend.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_head_friend.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_video.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_item_msg.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_item_msg.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_voice.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_file.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_file.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_message.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_message.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_neterror_item.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_chat_neterror_item.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice_call.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_voice_call.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\expression_gridview.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\expression_gridview.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_voice.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_voice.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_chat.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_chat.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact_with_checkbox.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_contact_with_checkbox.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_baidumap.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_baidumap.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_location.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_location.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_search.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_head_search.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_location.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_location.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_expression.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_expression.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_video.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_video.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_chat_history.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_chat_history.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_video.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_show_video.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_picture.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_picture.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_text.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_text.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video_call.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_video_call.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_group.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_group.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_picture.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_picture.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_chat.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_chat.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_text.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_text.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_baidumap.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_baidumap.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_location.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_location.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_video_call.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_video_call.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_location.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_location.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_location.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_location.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_location.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_location.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_voice.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_voice.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_file.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_file.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video_call.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_video_call.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_voice_call.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_voice_call.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video_call.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_video_call.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice_call.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_voice_call.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_expression.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_expression.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_sent_video.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_sent_video.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_big_image.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_show_big_image.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_file.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_show_file.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_neterror_item.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_chat_neterror_item.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact_with_checkbox.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_contact_with_checkbox.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_show_file.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_show_file.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_video.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_video.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_image.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_image.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_voice.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_voice.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_voice_call.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_voice_call.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_voice.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_message.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_message.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_contact.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_contact.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_voice_call.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_voice_call.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\activity_video_call.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\activity_video_call.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_head_search.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_head_search.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\context_menu_for_video.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\context_menu_for_video.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\row_received_file.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\row_received_file.xml"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\start.xml",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\start.xml"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi-v4\\layout_chat_tool.xml",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\layout-xhdpi\\layout_chat_tool.xml"
     }
 ]

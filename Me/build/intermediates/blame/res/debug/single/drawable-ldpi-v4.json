@@ -1,14 +1,14 @@
 [
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cm.png",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-ldpi\\cm.png"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cm.png",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable-ldpi\\cm.png"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_drawable_users.png",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_drawable_users.png"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\vector_drawable_users.png",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\vector_drawable_users.png"
     },
     {
-        "merged": "Y:\\AS_Test\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gr.png",
-        "source": "Y:\\AS_Test\\Xc_Project\\Me\\src\\main\\res\\drawable-ldpi\\gr.png"
+        "merged": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gr.png",
+        "source": "D:\\dysen\\workspace\\Studio_Android\\Xc_Project\\Me\\src\\main\\res\\drawable-ldpi\\gr.png"
     }
 ]
